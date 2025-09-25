@@ -1,4 +1,4 @@
-"Registro de Temperatura corporal"
+
 # sem4
 mkdir MiPortafolio
 cd MiPortafolio
